@@ -1,2 +1,1 @@
-# cse110
-This is my CSE110 repository
+My favorite programming language is Java.
