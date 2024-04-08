@@ -1,6 +1,6 @@
 # Varun Parekh's Very Own User Page 
 
-![Personal Photo](Pro-photo.jpg)
+![Personal Photo](IMG_5634.JPG)
 
 
 ## Introduction 
